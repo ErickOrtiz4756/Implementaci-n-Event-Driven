@@ -1,4 +1,3 @@
-# govent
 Arquitectura Event driven en Go utilizando canales
 
 Registra nuevos tipos de eventos - 
